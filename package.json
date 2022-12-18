@@ -65,6 +65,7 @@
     "typescript-plugin-styled-components": "^2.0.0"
   },
   "resolutions": {
-    "**/trim": "^0.0.3"
+    "**/trim": "^0.0.3",
+    "**/glob-parent": "^5.1.2"
   }
 }
